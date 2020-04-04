@@ -1,6 +1,6 @@
 # OpenCoreAPFSloader
 
-Bootloader for any unsupported Catalina EFI Mac
+Custom Bootloader for any unsupported Catalina EFI Mac
 
 to detect any HFS, APFS, APFS dmg, ramdisk and hidden apple volumes from any unsupported Catalina Mac
 
